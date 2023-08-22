@@ -25,11 +25,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Fixtures\" />
-    <Folder Include="Helpers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\CloudCostumers.API\CloudCostumers.API.csproj" />
   </ItemGroup>
 
